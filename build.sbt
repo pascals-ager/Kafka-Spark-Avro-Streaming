@@ -1,5 +1,5 @@
 val metaSettings = Seq(
-  name := "schema-registry",
+  name := "kafka-utils",
   version := "1.0.0"
 )
 
