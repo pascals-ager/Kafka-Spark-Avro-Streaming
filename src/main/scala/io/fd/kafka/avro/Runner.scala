@@ -1,4 +1,4 @@
-package io.fd.kafka.avro
+package io.pascal.kafka.avro
 
 import com.typesafe.config.ConfigFactory
 import org.apache.avro.Schema
